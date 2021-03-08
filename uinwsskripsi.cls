@@ -432,7 +432,7 @@ Telp. 024-7601295 Fax. 7615387}
 \noindent Naskah skripsi berikut ini :\vspace{0.1cm}
 
 \noindent
-\begin{tabularx}{\linewidth}{@{}lcp{6.5cm}@{}}
+\begin{tabularx}{\linewidth}{@{}lcp{8.5cm}@{}}
 Judul & : & \textbf{\@titleind} \\
 Penulis & : & \@fullname \\
 NIM & : & \@idnum \\
