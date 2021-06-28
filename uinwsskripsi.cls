@@ -510,7 +510,7 @@ NIP : \@nippembimbingkedua
  \noindent\textit{Assalamu'alaikum warahmatullahi wabarakatuh}\\[.5cm]
  Dengan ini diberitahukan bahwa saya telah melakukan bimbingan, arahan dan koreksi naskah skripsi dengan:\\[.2cm]
 \noindent
-\begin{tabularx}{\textwidth}{@{}lcp{6.5cm}}
+\begin{tabularx}{\textwidth}{@{}lcp{8.5cm}}
 Judul & : & \@titleind\\
 Nama  & : & \@fullname\\
 NIM   & : & \@idnum\\
@@ -564,7 +564,7 @@ Jurusan & : & \@jurusan\\
  \noindent\textit{Assalamu'alaikum warahmatullahi wabarakatuh}\\[.5cm]
  Dengan ini diberitahukan bahwa saya telah melakukan bimbingan, arahan dan koreksi naskah skripsi dengan:\\[.2cm]
 \noindent
-\begin{tabularx}{\textwidth}{@{}lcp{6.5cm}@{}}
+\begin{tabularx}{\textwidth}{@{}lcp{8.5cm}@{}}
 Judul & : & \@titleind\\
 Nama  & : & \@fullname\\
 NIM   & : & \@idnum\\
@@ -728,7 +728,7 @@ Jurusan/Program Studi & : & \@jurusan / \@prodi
 	\cleardoublepage
 	\addcontentsline{toc}{chapter}{Lampiran-lampiran}
 	\addtocontents{toc}{\setcounter{tocdepth}{-1}}
-	
+	\renewcommand{\theequation}{L\theappendices.\arabic{equation}}
 }
 
 %------------------------------------------------------------
