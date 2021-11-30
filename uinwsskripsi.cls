@@ -18,6 +18,8 @@
 \usepackage{caladea}
 \usepackage{amsmath,amssymb,latexsym,graphicx}
 \usepackage{tabularx}
+\usepackage[none]{hyphenat}
+\sloppy
 
 %\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
 
