@@ -80,8 +80,8 @@
  total={108mm,170mm},
  left=20mm,
  top=20mm,
- twoside, 
- bindingoffset=5mm
+ %twoside, 
+ %bindingoffset=5mm
 % showframe
  }
 
