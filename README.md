@@ -13,3 +13,5 @@ Tutorial LaTeX :
 1. Tutorial LaTeX : 1 - Class, Tabel (online), Gambar, Enumerate, Itemize : https://www.youtube.com/watch?v=S72joRCb3-0
 2. Tutorial LaTeX : 2 - Membuat Bibliography : https://www.youtube.com/watch?v=Yv_3APEcULA
 3. Tutorial LaTeX : 3 - Presentasi Beamer: https://www.youtube.com/watch?v=jekLxVIUTIQ
+
+Overleaf Template : https://www.overleaf.com/latex/templates/uinwsskripsi/hqhszqtrnkrk
